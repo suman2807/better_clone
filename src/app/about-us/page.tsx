@@ -12,11 +12,11 @@ export default function AboutUs() {
           <div className="max-w-screen-xl mx-auto px-6 md:px-10">
             <div className="text-center max-w-3xl mx-auto">
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-6">
-                We're redefining homeownership
+                We&apos;re redefining homeownership
               </h1>
               <p className="text-xl text-green-100 mb-10">
                 Better.com is redefining the homeownership process from the ground up. 
-                We're using technology to make it faster and more efficient, and humans 
+                We&apos;re using technology to make it faster and more efficient, and humans 
                 to help make it better.
               </p>
               <div className="flex flex-col sm:flex-row justify-center gap-4">
@@ -74,7 +74,7 @@ export default function AboutUs() {
                   We knew there had to be a better way. So we built one.
                 </p>
                 <p className="text-lg text-gray-700">
-                  Today, we're a team of engineers, designers, and mortgage experts 
+                  Today, we&apos;re a team of engineers, designers, and mortgage experts 
                   working together to create a faster, more transparent, and more 
                   efficient mortgage experience for everyone.
                 </p>
@@ -98,7 +98,7 @@ export default function AboutUs() {
                 Our values
               </h2>
               <p className="text-xl text-gray-700 max-w-3xl mx-auto">
-                We're guided by a set of core principles that shape how we work, 
+                We&apos;re guided by a set of core principles that shape how we work, 
                 what we build, and who we are.
               </p>
             </div>
@@ -126,7 +126,7 @@ export default function AboutUs() {
                 <div className="text-green-700 text-4xl mb-4">03</div>
                 <h3 className="text-xl font-bold text-gray-900 mb-4">Innovation</h3>
                 <p className="text-gray-700">
-                  We're constantly pushing the boundaries of what's possible to 
+                  We&apos;re constantly pushing the boundaries of what&apos;s possible to 
                   improve the mortgage experience.
                 </p>
               </div>

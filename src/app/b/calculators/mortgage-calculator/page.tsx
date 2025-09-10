@@ -14,7 +14,6 @@ export default function MortgageCalculator() {
   const [propertyTax, setPropertyTax] = useState(265);
   const [homeInsurance, setHomeInsurance] = useState(1200);
   const [hoaFees, setHoaFees] = useState(0);
-  const [pmi, setPmi] = useState(0);
 
   // Calculate down payment percentage when home price or down payment changes
   const handleHomePriceChange = (value: number) => {
@@ -411,7 +410,7 @@ export default function MortgageCalculator() {
               
               <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
                 <div>
-                  <h3 className="text-xl font-bold text-gray-900 mb-4">What's Included in Your Payment?</h3>
+                  <h3 className="text-xl font-bold text-gray-900 mb-4">What&apos;s Included in Your Payment?</h3>
                   <ul className="space-y-4">
                     <li className="flex items-start">
                       <div className="flex-shrink-0 h-6 w-6 rounded-full bg-green-100 flex items-center justify-center mr-3 mt-1">
@@ -432,7 +431,7 @@ export default function MortgageCalculator() {
                       <div>
                         <h4 className="font-bold text-gray-900">Property Tax</h4>
                         <p className="text-gray-700">
-                          Taxes you pay to your local government based on your home's value.
+                          Taxes you pay to your local government based on your home&apos;s value.
                         </p>
                       </div>
                     </li>
@@ -454,7 +453,7 @@ export default function MortgageCalculator() {
                       <div>
                         <h4 className="font-bold text-gray-900">PMI (Private Mortgage Insurance)</h4>
                         <p className="text-gray-700">
-                          Required if your down payment is less than 20% of the home's value.
+                          Required if your down payment is less than 20% of the home&apos;s value.
                         </p>
                       </div>
                     </li>

@@ -12,7 +12,7 @@ export default function Start() {
           <div className="max-w-screen-xl mx-auto px-6 md:px-10">
             <div className="text-center max-w-3xl mx-auto">
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-6">
-                Hi, I'm Betsy!
+                Hi, I&apos;m Betsy!
               </h1>
               <p className="text-xl text-green-100 mb-2">
                 What can I help you with?
@@ -41,8 +41,8 @@ export default function Start() {
                 How can I help you today?
               </h2>
               <p className="text-xl text-gray-700 max-w-3xl mx-auto">
-                Whether you're buying your first home or refinancing, 
-                I'm here to guide you through the process.
+                Whether you&apos;re buying your first home or refinancing, 
+                I&apos;m here to guide you through the process.
               </p>
             </div>
             
@@ -88,7 +88,7 @@ export default function Start() {
                 <div className="text-green-700 text-5xl mb-6">🔄</div>
                 <h3 className="text-2xl font-bold text-gray-900 mb-4">Refinance</h3>
                 <p className="text-gray-700 mb-6">
-                  Lower your monthly payment or access your home's equity 
+                  Lower your monthly payment or access your home&apos;s equity 
                   with a Better refinance.
                 </p>
                 <ul className="space-y-3 mb-8">
@@ -166,7 +166,7 @@ export default function Start() {
                 Why choose Better?
               </h2>
               <p className="text-xl text-gray-700 max-w-3xl mx-auto">
-                We're reimagining the mortgage experience from the ground up.
+                We&apos;re reimagining the mortgage experience from the ground up.
               </p>
             </div>
             
